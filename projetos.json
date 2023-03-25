@@ -1,3 +1,4 @@
+ [
  {
             project_name:"GitUSers",
             project_bio:"GitUsers é um sistema que te da informações sobre contas do github apenas com nome dos usuarios",
@@ -34,3 +35,6 @@
             project_url:"https://github.com/DsK-David/BuscaTudo",
             project_repo:"https://github.com/DsK-David/BuscaTudo"
         }
+
+ 
+ ]
