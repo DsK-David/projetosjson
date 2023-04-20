@@ -34,5 +34,14 @@
     "project_bio": "Busca todo tem varios serviços como um sistema de busca de informações sobre um CEP,informações sobre a placa de um carro e tem um bot de conversar e um bot de pesquias por noticias",
     "project_url": "https://github.com/DsK-David/BuscaTudo",
     "project_repo": "https://github.com/DsK-David/BuscaTudo"
-  }
+  },
+    "project_name":"NetSpot",
+    "project_bio":"Este é um programa de lista de redes Wi-Fi próximas que exibe informações detalhadas sobre cada rede detectada. O programa foi desenvolvido usando Node.js e a biblioteca node-wifi.",
+    "project_repo":"https://github.com/DsK-David/NetSpot"
+  },
+  {
+    "project_name":"PYHASH",
+    "project_bio":"PYHASH é um programa bem sismples feito em Python que cria um hash de qualquer texto digitad, guardando o hash num arquivo chamado 'senha.txt'",
+    "project_rep":"https://github.com/DsK-David/PYHASH"
+   },
 ]
