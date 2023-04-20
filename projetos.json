@@ -41,7 +41,7 @@
   },
   {
     "project_name":"PYHASH",
-    "project_bio":"PYHASH é um programa bem sismples feito em Python que cria um hash de qualquer texto digitad, guardando o hash num arquivo chamado 'senha.txt'",
+    "project_bio":"PYHASH é um programa bem sismples feito em Python que cria um hash de qualquer texto digitad, guardando o hash num arquivo chamado senha.txt",
     "project_repo":"https://github.com/DsK-David/PYHASH"
    },
 ]
