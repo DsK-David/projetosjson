@@ -35,6 +35,7 @@
     "project_url": "https://github.com/DsK-David/BuscaTudo",
     "project_repo": "https://github.com/DsK-David/BuscaTudo"
   },
+   {
     "project_name":"NetSpot",
     "project_bio":"Este é um programa de lista de redes Wi-Fi próximas que exibe informações detalhadas sobre cada rede detectada. O programa foi desenvolvido usando Node.js e a biblioteca node-wifi.",
     "project_repo":"https://github.com/DsK-David/NetSpot"
